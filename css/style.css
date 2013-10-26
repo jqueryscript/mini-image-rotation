@@ -1,0 +1,24 @@
+@charset "utf-8";
+body, ul, li {
+margin: 0;
+padding: 0;
+}
+ul, li {
+list-style: none;
+}
+.menu {
+width: 400px;
+height: 255px;
+border: 6px solid #ccc;
+margin: 30px auto 0;
+overflow: hidden;
+}
+.menu ul {
+width: 400px;
+height: 255px;
+}
+.menu ul li img {
+display: block;
+width: 400px;
+height: 255px;
+}
